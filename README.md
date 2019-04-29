@@ -15,7 +15,7 @@ The model supports **channel last** or **channel first**.
 
 ## References
 
-[ShuffleNet Paper](https://arxiv.org/pdf/1707.01083.pdf)
+[ShuffleNet Paper](https://arxiv.org/pdf/1707.01083.pdf)  
 [keras-shufflenet](https://github.com/scheckmedia/keras-shufflenet)
 
 
